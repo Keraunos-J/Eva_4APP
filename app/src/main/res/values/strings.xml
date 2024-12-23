@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Eva_4APP</string>
+    <string name="enviar_datos">Enviar Datos</string>
+    <string name="env_o_de_datos_a_firebase">Envío de Datos a Firebase</string>
+    <string name="presiona_el_bot_n_para_enviar_datos_al_servidor_de_firebase">Presiona el botón para enviar datos al servidor de Firebase</string>
+    <string name="mostrar_datos">Mostrar Datos</string>
+    <string name="temperatura">Temperatura: -</string>
+    <string name="humedad">Humedad: -</string>
+    <string name="ltima_actualizaci_n_no_disponible">Última actualización: No disponible</string>
+    <string name="ultima_actualizacion_no_disponible">ultima actualizacion no disponible</string>
+</resources>

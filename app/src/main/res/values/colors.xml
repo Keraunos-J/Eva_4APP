@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores de fondo -->
+    <color name="summer_background_light">#F0F7FF</color>
+    <color name="summer_card_background">#FFE5B4</color>
+
+    <!-- Colores de texto y elementos -->
+    <color name="summer_title_color">#FF6D00</color>
+    <color name="summer_temperature_color">#FF9800</color>
+    <color name="summer_humidity_color">#2196F3</color>
+    <color name="summer_timestamp_color">#FF5722</color>
+
+    <!-- Colores de separadores -->
+    <color name="summer_divider_temperature">#FFD54F</color>
+    <color name="summer_divider_humidity">#81D4FA</color>
+
+    <!-- Color del botón -->
+    <color name="summer_button_color">#FF9800</color>
+    <color name="summer_button_text_color">#FFFFFF</color>
+</resources>
